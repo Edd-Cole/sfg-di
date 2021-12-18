@@ -1,13 +1,13 @@
-package guru.springframework.DependencyInjection;
+package guru.springframework.sfgdi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DependencyInjectionApplication {
+public class SfgDiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DependencyInjectionApplication.class, args);
+		SpringApplication.run(SfgDiApplication.class, args);
 	}
 
 }

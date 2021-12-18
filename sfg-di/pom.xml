@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>guru.springframework</groupId>
-	<artifactId>Dependency-Injection</artifactId>
+	<artifactId>sfg-di</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Dependency-Injection</name>
+	<name>sfg-di</name>
 	<description>A repo to showcase how dependency injection works within Java &amp; Spring</description>
 	<properties>
 		<java.version>17</java.version>
